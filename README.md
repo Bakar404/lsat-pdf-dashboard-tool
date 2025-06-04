@@ -14,6 +14,10 @@ lsat_pdf_tool/
 └── README.md            # This file
 ```
 
+Both the `input/` and `output/` folders are ignored by Git. They will be
+created automatically when you run `main.py`, but you can also create them
+manually if preferred.
+
 ## 📦 Installation
 ```bash
 pip install -r requirements.txt
